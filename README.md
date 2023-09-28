@@ -43,7 +43,7 @@ Before you begin, ensure you have the following:
 
 In this repository, you will find the following:
 
-- **Source Code:** The source code for the iOS widget project created during the tutorial is organized in the `WidgetTutorial` folder.
+- **Source Code:** The source code for the iOS widget project created during the tutorial is organized in the `Monthly` folder.
 
 - **Assets:** Any necessary assets or resources used in the tutorial can be found in the `Assets` folder.
 
