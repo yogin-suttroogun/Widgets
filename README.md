@@ -50,6 +50,6 @@ In this repository, you will find the following:
 
 ## Acknowledgments
 
-- Special thanks to Sean Allen for creating the tutorial.
+- Special thanks to **Sean Allen** for creating the tutorial.
 
 Enjoy the tutorial and happy coding!
