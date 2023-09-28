@@ -26,7 +26,7 @@ To get started with the tutorial, follow these steps:
 1. **Clone the Repository:** If you haven't already, clone this GitHub repository to your local machine.
 
    ```shell
-   git clone https://github.com/yourusername/iOS-widget-tutorial.git
+   https://github.com/yogin-suttroogun/Widgets.git
    ```
 
 2. **Open the Project:** Navigate to the project folder and open the Xcode project file (`.xcodeproj`).
