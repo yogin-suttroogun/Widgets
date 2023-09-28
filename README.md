@@ -2,6 +2,11 @@
 
 This GitHub repository contains the source code and related resources for the iOS widget tutorial available on YouTube. You can watch the tutorial [here](https://www.youtube.com/watch?v=jucm6e9M6LA).
 
+## Demo
+
+![Github  MonthlyWidget](https://github.com/yogin-suttroogun/Widgets/assets/17989408/a9e2265e-6f61-4824-999c-350d7e82cb24)
+
+
 ## Overview
 
 This tutorial demonstrates how to create and implement widgets in iOS applications. 
